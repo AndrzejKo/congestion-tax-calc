@@ -31,4 +31,4 @@ Assumption is that tax is calculated for a single day and input table will conta
 - added sorting for input dates
 
 ## Questions
-- As described above, a toll-free pass will start the interval, which may resut in higher fee. Is this behvior intentional?
+- As described above, a toll-free pass will start the interval, which may resut in higher fee. Is this behavior intentional?
